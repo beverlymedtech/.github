@@ -1,4 +1,6 @@
-## Hi there 👋
+# Bev Tech Software 🧫
+
+This organization houses Beverly BioTech Open Source Algorithm distributuion and analysis center.
 
 <!--
 
