@@ -2,6 +2,8 @@
 
 This organization houses Beverly BioTech Open Source Algorithm distributuion and analysis center.
 
+BevTech Software is intended for development of Open source tools used to process biological data, or data to generated thorugh Chemical or BiomedicaL Engineering.
+
 <!--
 
 **Here are some ideas to get you started:**
